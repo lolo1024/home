@@ -1,5 +1,5 @@
 <template>
-  <div class="more-content">有人住高楼，有人在深沟，有人光万丈，有人一身锈，世人万千种，浮云莫去求，斯人若彩虹，遇上方知有。</div>
+  <div class="more-content">有人住高楼，有人在深沟<br>有人光万丈，有人一身锈<br>世人万千种，浮云莫去求<br>斯人若彩虹，遇上方知有。</div>
 </template>
 
 <style lang="scss" scoped>
