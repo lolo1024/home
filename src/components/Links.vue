@@ -4,7 +4,7 @@
       <Icon size="20">
         <Link />
       </Icon>
-      <span class="title">网站列表</span>
+      <span class="title">网站列表←←下方左滑更多哦~</span>
     </div>
     <!-- 网站列表 -->
     <Swiper
