@@ -54,4 +54,9 @@
     "name": "密码管理",
     "link": "https://vault.bitwarden.com/#/login"
   }
+    {
+    "icon": "Gamepad",
+    "name": "FC游戏在线",
+    "link": "https://lolo1024.github.io/fcgame/"
+  }
 ]
