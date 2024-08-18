@@ -12,22 +12,22 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.0520.com.cn"
+    "link": "https://blog.0520.com.cn" 
   },
    {
     "icon": "Brain",
     "name": "GPT-4o",
-    "link": "https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1"
+    "link": "https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1" 
   },
   {
     "icon": "Bookmark",
-    "name": "书签",
-    "link": "https://flowus.cn/lolo/share/a9600eff-b4e2-47e4-9620-4692ea809a32?code=PY4AQB"
+    "name": "书签下载",
+    "link": "https://flowus.cn/lolo/share/a9600eff-b4e2-47e4-9620-4692ea809a32?code=PY4AQB"  
   },
   {
     "icon": "Book",
-    "name": "网址集",
-    "link": "https://lolo1024.github.io/dh"
+    "name": "在线书签",
+    "link": "https://nav.0520.com.cn"          
   },
   {
     "icon": "Qq",
