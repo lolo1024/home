@@ -4,7 +4,7 @@
       <Icon size="20">
         <Link />
       </Icon>
-      <span class="title">网站列表←←下方左滑更多哦~</span>
+      <span class="title">网站列表</span>
     </div>
     <!-- 网站列表 -->
     <Swiper
@@ -43,7 +43,7 @@
 <script setup>
 import { Icon } from "@vicons/utils";
 // 可前往 https://www.xicons.org 自行挑选并在此处引入
-import { Link, Star, Cloud, Fish, Book, Bookmark, Fire, BookmarkRegular, SimCard, UserLock, Qq, Gift, Brain, Gamepad, Blog } from "@vicons/fa"; // 注意使用正确的类别               
+import { Link, Star, Cloud, Fish, Book, Bookmark, Fire, BookmarkRegular, SimCard, UserLock, Qq, Gift, Brain, Gamepad, Blog } from "@vicons/fa"; // 注意使用正确的类别
 import { mainStore } from "@/store";
 import { Swiper, SwiperSlide } from "swiper/vue";
 import { Pagination, Mousewheel } from "swiper/modules";
@@ -108,7 +108,7 @@ onMounted(() => {
     }
   }
   .swiper {
-    left: -10px; 
+    left: -10px;
     width: calc(100% + 20px);
     padding: 5px 10px 0;
     z-index: 0;
