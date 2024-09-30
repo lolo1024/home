@@ -49,7 +49,12 @@
     "name": "三网流量卡",
     "link": "https://ehaoka.cn/h5#/?promoCode=evh2Jajj"
   },
-      {
+   {
+    "icon": "Star",
+    "name": "推荐",
+    "link": "https://tuijian.0520.com.cn"
+  },
+     {
     "icon": "UserLock",
     "name": "密码管理",
     "link": "https://vault.bitwarden.com/#/login"
